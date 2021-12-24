@@ -1,6 +1,7 @@
-## HopesOfGod777のウェブサイトへようこそ!!
+## HopesOfGod777のウェブサイトへようこそ!!(この下のボタンからこのサイトがどのようなファイルで構成されているのかを確認できます。)
+さああなたもこの素晴らしい驅逐要素がたっぷり詰め込まれたサーバーへ参加しよう!!
 
-You can use the [editor on GitHub](https://github.com/hopesofgod777/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+このサーバーでは娯楽、戦闘、そのほかの色々な昨日が濃縮されています。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
