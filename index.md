@@ -1,9 +1,9 @@
-## HopesOfGod777のウェブサイトへようこそ!!(ここのボタンからサイトファイルを閲覧できます)
+## HopesOfGod777のウェブサイトへようこそ!!
 さああなたもこの素晴らしい驅逐要素がたっぷり詰め込まれたサーバーへ参加しよう!!
 
-このサーバーでは娯楽、戦闘、そのほかの色々な昨日が濃縮されています。
+このサーバーでは娯楽、戦闘、そのほかの色々な機能が濃縮されています。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+このサーバーに搭載されているワールドはLobby,2b2h,LostCitiesです(ここで紹介したワールド名は予期せず変わる場合があります)
 
 ### Markdown
 
