@@ -5,7 +5,7 @@
 
 このサーバーに搭載されているワールドはLobby,2b2h,LostCitiesです(ここで紹介したワールド名は予期せず変わる場合があります)
 
-### Markdown
+### ワールド紹介
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -33,6 +33,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hopesofgod777/home/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### サポートまたは連絡先
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+サーバー管理者へ連絡する場合はDiscordのHopesOfGod777#8158まで、ウェブサイト管理者へ連絡する場合はDiscordのPENKUN0286#2255まで。
