@@ -7,31 +7,32 @@
 
 ### ワールド紹介
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
+Lobbyワールド
 
-# Header 1
-## Header 2
-### Header 3
+初めてサーバーに接続したときや他のサーバーがダウンしている際などに接続されます
+海に囲まれており、あたりを見渡すと様々な建築物が見えます。
+それぞれの建築物の近くには、看板が隠されています
 
-- Bulleted
-- List
+2b2hワールド
 
-1. Numbered
-2. List
+こちらは、2b2t様を真似たカスタマイズされた無法地帯となっております。
+サーバーが落ちたら落とした人をアクセス禁止します。
+このワールドではMOBの数が異常に多くなっております。しかもこのMOBはすべて強敵です。
+ところどころダンジョンもあります
 
-**Bold** and _Italic_ and `Code` text
+LostCitiesワールド
 
-[Link](url) and ![Image](src)
+このワールドでは、荒廃した街が自動生成で無限に続くワールドになっています。
+プラグインやデータパックが多数導入されているので、生き残るのは案外楽になるかもしれませんよ
 ```
+サーバー起動状態
+<a href="https://minecraft.jp/servers/220.109.145.50"><img src="https://minecraft.jp/servers/220.109.145.50/banner/1/560x95.png"/></a>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hopesofgod777/home/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## サイト内移動リンク
+<a href="https://hopesofgod777.github.io/Server_introduction">サーバー説明</a>
 
 ### サポートまたは連絡先
 
