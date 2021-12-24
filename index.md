@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## HopesOfGod777のウェブサイトへようこそ!!
 
 You can use the [editor on GitHub](https://github.com/hopesofgod777/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
